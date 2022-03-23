@@ -1,6 +1,6 @@
 # student-site
 
-An example student website, hosted by [GitHub Pages](https://pages.github.com/).
+An example student website for Camilo Atala, hosted by [GitHub Pages](https://pages.github.com/).
 
 View live in production at https://prof-rossetti.github.io/student-site.
 
